@@ -1,0 +1,53 @@
+{
+ "runs": [
+  {
+   "run": 1,
+   "detect": 2.0,
+   "diagnose": 0.5,
+   "recover": 0.3,
+   "verify": 0.0,
+   "ttr": 2.8,
+   "verified": true
+  },
+  {
+   "run": 2,
+   "detect": 2.0,
+   "diagnose": 0.5,
+   "recover": 0.2,
+   "verify": 0.0,
+   "ttr": 2.7,
+   "verified": true
+  },
+  {
+   "run": 3,
+   "detect": 2.0,
+   "diagnose": 0.5,
+   "recover": 0.2,
+   "verify": 0.0,
+   "ttr": 2.7,
+   "verified": true
+  },
+  {
+   "run": 4,
+   "detect": 2.0,
+   "diagnose": 0.5,
+   "recover": 0.2,
+   "verify": 0.0,
+   "ttr": 2.7,
+   "verified": true
+  },
+  {
+   "run": 5,
+   "detect": 2.0,
+   "diagnose": 0.5,
+   "recover": 0.2,
+   "verify": 0.0,
+   "ttr": 2.8,
+   "verified": true
+  }
+ ],
+ "avg_ttr": 2.7,
+ "max_ttr": 2.8,
+ "avg_detect": 2.0,
+ "avg_recover": 0.2
+}
